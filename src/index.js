@@ -1,3 +1,17 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
+ReactDOM.render(
+  <div>
+    <h1>Favorite Food</h1>
+    <ul>
+      <li>Bacon</li>
+      <li>Noodles</li>
+      <li>Jamon</li>
+    </ul>
+  </div>
+);
+
 //Create a react app from scratch.
 //It should display a h1 heading.
 //It should display an unordered list (bullet points).
